@@ -1,0 +1,47 @@
+#input{
+  font-family: 'VT323', monospace;
+  text-align: center;
+  padding-bottom: 1rem;
+  background: url('https://i.pinimg.com/originals/a8/34/e2/a834e23814e8219922d910c9cc64d698.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 37rem;
+  height: 5rem;
+}
+
+#input::placeholder{
+  color: black;
+  font-size: 3.3rem;
+}
+
+body {
+  margin-left: 32rem;
+  font-family: 'VT323', monospace;
+  background: url('https://static.tumblr.com/364393f69983ec4df45d0f7a0f58a20a/umzwstv/vZVorpm40/tumblr_static_d6lt8ue3a5w8408sogg88ss4c_640_v2.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+input {
+  padding-top: 30px;
+  width: 500px;
+  height: 60px;
+  font-size: 40px;
+  border: 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+li {
+  text-align: left;
+  font-size: 40px;
+  list-style: none;
+  margin: 0;
+}
+
+li:hover {
+  text-decoration: line-through;
+  color: #b30000;
+}
